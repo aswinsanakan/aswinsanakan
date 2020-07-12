@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">⚡️ Hi, I'm Aswin Sanakan ⚡️</h1>
+<h4 align="center"><a href="https://aswinsanakan.com">Portfolio</a> &bull; <a href="https://twitter.com/aswinsanakan">Twitter</a> &bull; <a href="https://dev.to/aswinsanakan">DEV</a> &bull; <a href="https://www.linkedin.com/in/aswinsanakan/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/7541197/aswin-sanakan">Stack Overflow</a></h4>
 
-<!--
-**aswinsanakan/aswinsanakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer currently working with Javascript frameworks like ExpressJS, NestJS & ReactJS. Previously worked on Angular, Ruby on Rails & Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌏 I live in Bangalore, India
+- 🔭 I’m currently working at [CognitiveClouds](https://www.cognitiveclouds.com/)
+- 🌱 I’m currently learning TypeScript, JAM Stack, and so on.
+- 💬 Ask me about JavaScript, Database design, Server-side development
+- 📫 How to reach me: [@aswinsanakan](https://twitter.com/aswinsanakan)
+- 😄 Pronouns: he/him
+- 🎧 Listening to: The Weeknd, Khalid, Post Malone
+- ⚡ Fun fact: I built a [Dad Jokes ruby gem](https://github.com/aswinsanakan/dad_jokes) to generate...well, dad jokes!
