@@ -6,8 +6,9 @@
 I'm a Web Architect / Full Stack Dev currently working with Javascript frameworks like ExpressJS, NestJS & ReactJS. Previously worked on Angular, Ruby on Rails & Python.
 
 
-- 🌏 I live in Bangalore, India
-- 🔭 I’m currently working at [CognitiveClouds](https://www.cognitiveclouds.com/)
+- 🌏 I live in Coventry, United Kingdom
+- 🎓 I'm currently doing my Masters in Computer Science at Coventry University
+- 🔭 I previously worked at [CognitiveClouds](https://www.cognitiveclouds.com/)
 - 🌱 I’m currently learning TypeScript, JAM Stack, and so on.
 - 💬 Ask me about JavaScript, Database design, Server-side development
 - 📫 How to reach me: [aswinsanakan@gmail.com](mailto:aswinsanakan@gmail.com), [@aswinsanakan](https://twitter.com/aswinsanakan)
