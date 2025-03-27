@@ -3,15 +3,15 @@
 
 ---
 
-I'm a Web Architect / Full Stack Dev currently working with Javascript frameworks like ExpressJS, NestJS & ReactJS. Previously worked on Angular, Ruby on Rails & Python.
+I'm a Senior Software Engineer working with JavaScript, TypeScript and Python with AWS.
 
-
-- 🌏 I live in Coventry, United Kingdom
-- 🎓 I'm currently doing my Masters in Computer Science at Coventry University
-- 🔭 I previously worked at [CognitiveClouds](https://www.cognitiveclouds.com/)
-- 🌱 I’m currently learning TypeScript, JAM Stack, and so on.
+- 🧑‍💻 Senior Software Engineer at [Imagine Learning](https://www.imaginelearning.com/)
+- 🌏 Based in Coventry, United Kingdom
+- 🎓 Master's in Computer Science from Coventry University
+- 🔭 Previously worked at [CognitiveClouds](https://www.cognitiveclouds.com/)
+- 🌱 Currently learning Kubernetes, Terraform, and so on.
 - 💬 Ask me about JavaScript, Database design, Server-side development
 - 📫 How to reach me: [aswinsanakan@gmail.com](mailto:aswinsanakan@gmail.com), [@aswinsanakan](https://twitter.com/aswinsanakan)
 - 😄 Pronouns: he/him
-- 🎧 Listening to: The Weeknd, Khalid, Jason Derulo
+- 🎧 Listening to: The Weeknd, Arctic Monkeys, 
 - ⚡ Fun fact: I built a [Dad Jokes ruby gem](https://github.com/aswinsanakan/dad_jokes) to generate...well, dad jokes!
